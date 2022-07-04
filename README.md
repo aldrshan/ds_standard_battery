@@ -1,2 +1,1 @@
-# Titanic_Challenge
-Kaggle entry level data competition 
+# ds_standard_battery
