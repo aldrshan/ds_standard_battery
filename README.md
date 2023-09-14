@@ -21,4 +21,4 @@ Can you say this about the data?
     Completeness. The degree to which all required data is known.
     Consistency. Ensure your data is consistent within the same dataset and/or across multiple data sets.
     Uniformity. The degree to which the data is specified using the same unit of measure.
-
+Consider a cleaning tool such as https://openrefine.org/ it's free and open source!
