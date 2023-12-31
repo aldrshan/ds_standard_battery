@@ -1,11 +1,14 @@
 # ds_standard_battery
 This repo is an attempt at building a standard battey for data science and machine learnig. 
+Using various tools and a user friendly frontend go from ground truth statement to end analysis.
 To accomplish this the five overarching steps are:
 Collect
 Clean
 Explore
 Model building
 Model Deployment
+
+
 
 For collecting data consider starting with Kafka or similar for a data stream and a DB for data storage as you will likely outgrow CSV's and spreadsheets for data collection.
 
